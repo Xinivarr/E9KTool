@@ -1,0 +1,3 @@
+{} Kendi denemek istediğiniz şifreleri alt alta yazabilirsiniz. (Her satır 1 şifreye denk gelir)
+{} You can write the passwords you want to try line by line below. (Each line corresponds to 1 password)
+123456
